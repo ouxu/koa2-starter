@@ -1,0 +1,22 @@
+# idea
+.idea/
+.vscode/
+
+# config
+pushConfig.js
+
+# dependencies
+/node_modules
+package-lock.json
+
+# production
+/dist
+
+# misc
+.DS_Store
+npm-debug.log*
+**.log
+
+# umi
+.umi
+.umi-production
