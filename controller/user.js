@@ -1,4 +1,4 @@
-class UsersController {
+class UserController {
   static async index(ctx) {
     // ctx.validateQuery('name').required()
 
